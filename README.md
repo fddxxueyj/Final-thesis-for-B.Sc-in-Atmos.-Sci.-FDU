@@ -1,4 +1,4 @@
-# Final thesis in Atmospheric Science
+# CP ENSO
 Topic: CP ENSO 
 
 Progress:
